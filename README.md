@@ -48,8 +48,7 @@ In a new Colab notebook, run the following command to clone the repository:
 
 ### **Step 3: Navigate to repository**
 ```python
-import os
-os.chdir('/content/voice_doc')
+cd voice_doc
 ```
 #Install dependencies
 ```bash
